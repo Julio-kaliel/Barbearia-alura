@@ -1,17 +1,20 @@
 body {
 	
 }
-.principal {
-	background: #CCCCCC;
+
+.titulo-principal {
 	padding: 30px;
 		
 }
+.principal {
+	background-color: #CCCC;
+	padding-left: 20px;
 
 #banner {
 	width: 100%;
 }
 
-h1 {
+.titulo-centralizado {
 	text-align: center;
 }
 
