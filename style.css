@@ -3,15 +3,17 @@ body {
 }
 
 .titulo-principal {
-	padding: 30px;
+	padding-left: 20px
 		
 }
-.principal {
-	background-color: #CCCC;
-	padding-left: 20px;
 
 #banner {
 	width: 100%;
+}
+
+.principal {
+	background-color: #CCCCCC;
+	padding: 30PX;
 }
 
 .titulo-centralizado {
@@ -30,15 +32,15 @@ em strong{
 	color:#ff0000; 
 	
 }
+.itens {
+	font-style: italic;
+}
 
 .beneficios {
 	background: #ffffff;
 	padding: 20px;
 }
 
-h2 {
-	text-align: center;
-}
 
 ul {
 	display: inline-block;
@@ -48,6 +50,7 @@ ul {
 
 }
 
-.imagebeneficios {
+.imagembeneficios {
 	width: 50%;
+
 }
